@@ -1,0 +1,508 @@
+Paper,Supervisee,Supervisor
+10.1109/TVCG.2020.3030409,thomas ortner,m. eduard gröller
+10.1109/TVCG.2014.2346930,artem konev,m. eduard gröller
+10.1109/TVCG.2013.122,johannes kehrer,m. eduard gröller
+10.1109/TVCG.2012.254,bilal alsallakh,m. eduard gröller
+10.1109/VAST.2012.6400555,gabriel mistelbauer,m. eduard gröller
+10.1109/TVCG.2012.261,hrvoje ribicic,m. eduard gröller
+10.1109/TVCG.2011.258,martin haidacher,m. eduard gröller
+10.1109/TVCG.2011.228,artem amirkhanov,m. eduard gröller
+10.1109/TVCG.2011.225,jürgen waser,m. eduard gröller
+10.1109/TVCG.2011.216,philipp muigg,m. eduard gröller
+10.1109/TVCG.2010.214,artem amirkhanov,m. eduard gröller
+10.1109/TVCG.2010.223,jürgen waser,m. eduard gröller
+10.1109/TVCG.2009.199,raphael fuchs,m. eduard gröller
+10.1109/TVCG.2009.115,laura fritz,m. eduard gröller
+10.1109/TVCG.2008.170,daniel patel,m. eduard gröller
+10.1109/TVCG.2007.70598,christoph heinzl,m. eduard gröller
+10.1109/TVCG.2007.70591,peter rautek,m. eduard gröller
+10.1109/TVCG.2007.70576,peter kohlmann,m. eduard gröller
+10.1109/TVCG.2007.70555,stefan bruckner,m. eduard gröller
+10.1109/TVCG.2007.70550,maurice termeer,m. eduard gröller
+10.1109/TVCG.2006.152,ivan viola,m. eduard gröller
+10.1109/TVCG.2006.140,stefan bruckner,m. eduard gröller
+10.1109/TVCG.2006.123,peter rautek,m. eduard gröller
+10.1109/VISUAL.2005.1532856,stefan bruckner,m. eduard gröller
+10.1109/VISUAL.2005.1532847,matej mlejnek,m. eduard gröller
+10.1109/INFVIS.2005.1532123,georg zotti,m. eduard gröller
+10.1109/VISUAL.2004.56,matej mlejnek,m. eduard gröller
+10.1109/VISUAL.2004.48,ivan viola,m. eduard gröller
+10.1109/VISUAL.2003.1250387,ivan viola,m. eduard gröller
+10.1109/VISUAL.2003.1250353,armin kanitsar,m. eduard gröller
+10.1109/VISUAL.2002.1183812,armin kanitsar,m. eduard gröller
+10.1109/VISUAL.2002.1183754,armin kanitsar,m. eduard gröller
+10.1109/INFVIS.2002.1173149,kresimir matkovic,m. eduard gröller
+10.1109/VISUAL.2001.964555,armin kanitsar,m. eduard gröller
+10.1109/VISUAL.2001.964540,anna vilanova,m. eduard gröller
+10.1109/VISUAL.2001.964498,thomas theußl,m. eduard gröller
+10.1109/VISUAL.2000.885732,rainer wegenkittl,m. eduard gröller
+10.1109/VISUAL.2000.885726,lukas mroz,m. eduard gröller
+10.1109/VISUAL.2000.885697,helwig hauser,m. eduard gröller
+10.1109/VISUAL.1998.745317,anton l. fuhrmann,m. eduard gröller
+10.1109/VISUAL.1997.663897,rainer wegenkittl,m. eduard gröller
+10.1109/VISUAL.1997.663867,rainer wegenkittl,m. eduard gröller
+10.1109/TVCG.2020.3030385,tarik crnovrsanin,kwan-liu ma
+10.1109/TVCG.2020.3030453,jianping kelvin li,kwan-liu ma
+10.1109/TVCG.2020.3028889,takanori fujiwara,kwan-liu ma
+10.1109/VAST50239.2020.00010,takanori fujiwara,kwan-liu ma
+10.1109/VAST50239.2020.00008,"suyun sandra"" bae","kwan-liu ma"""
+10.1109/TVCG.2019.2934251,takanori fujiwara,kwan-liu ma
+10.1109/TVCG.2019.2934537,jianping kelvin li,kwan-liu ma
+10.1109/TVCG.2019.2934433,takanori fujiwara,kwan-liu ma
+10.1109/TVCG.2019.2934396,oh-hyun kwon,kwan-liu ma
+10.1109/TVCG.2018.2865021,xumeng wang,kwan-liu ma
+10.1109/TVCG.2018.2864841,min shih,kwan-liu ma
+10.1109/VAST.2017.8585646,takanori fujiwara,kwan-liu ma
+10.1109/TVCG.2017.2745139,xumeng wang,kwan-liu ma
+10.1109/TVCG.2017.2743858,oh-hyun kwon,kwan-liu ma
+10.1109/VAST.2015.7347626,chris bryan,kwan-liu ma
+10.1109/VAST.2014.7042479,tarik crnovrsanin,kwan-liu ma
+10.1109/TVCG.2014.2346594,haidong chen,kwan-liu ma
+10.1109/TVCG.2014.2346423,franz sauer,kwan-liu ma
+10.1109/TVCG.2013.172,yubo zhang,kwan-liu ma
+10.1109/TVCG.2013.123,wei-hsien hsu,kwan-liu ma
+10.1109/VAST.2012.6400494,jishang wei,kwan-liu ma
+10.1109/TVCG.2012.285,yingcai wu,kwan-liu ma
+10.1109/TVCG.2012.227,nathaniel fout,kwan-liu ma
+10.1109/TVCG.2012.212,yuzuru tanahashi,kwan-liu ma
+10.1109/TVCG.2012.194,nathaniel fout,kwan-liu ma
+10.1109/VAST.2010.5652460,yu-hsuan chan,kwan-liu ma
+10.1109/TVCG.2010.218,chad jones,kwan-liu ma
+10.1109/TVCG.2010.215,anna tikhonova,kwan-liu ma
+10.1109/TVCG.2010.212,stéphane marchesin,kwan-liu ma
+10.1109/VAST.2009.5332611,carlos d. correa,kwan-liu ma
+10.1109/VAST.2009.5332593,tarik crnovrsanin,kwan-liu ma
+10.1109/TVCG.2009.196,chris muelder,kwan-liu ma
+10.1109/TVCG.2009.189,carlos d. correa,kwan-liu ma
+10.1109/TVCG.2009.123,michael ogawa,kwan-liu ma
+10.1109/TVCG.2008.162,carlos d. correa,kwan-liu ma
+10.1109/TVCG.2008.158,chris muelder,kwan-liu ma
+10.1109/TVCG.2008.140,chaoli wang 0001,kwan-liu ma
+10.1109/TVCG.2007.70516,nathaniel fout,kwan-liu ma
+10.1109/VISUAL.2005.1532820,fan-yin tzeng,kwan-liu ma
+10.1109/VISUAL.2004.64,eric b. lum,kwan-liu ma
+10.1109/VISUAL.2004.5,gregory l. schussman,kwan-liu ma
+10.1109/VISUAL.2003.1250413,fan-yin tzeng,kwan-liu ma
+10.1109/INFVIS.2003.1249009,t. j. jankun-kelly,kwan-liu ma
+10.1109/VISUAL.2002.1183805,eric b. lum,kwan-liu ma
+10.1109/VISUAL.2000.885678,t. j. jankun-kelly,kwan-liu ma
+10.1109/VISUAL.1999.809910,han-wei shen,kwan-liu ma
+10.1109/VISUAL.1995.485144,shyh-kuang ueng,kwan-liu ma
+10.1109/TVCG.2020.3030396,xinhuan shu,huamin qu
+10.1109/TVCG.2020.3030471,qianwen wang,huamin qu
+10.1109/TVCG.2020.3030469,zezheng feng,huamin qu
+10.1109/TVCG.2020.3030423,aoyu wu,huamin qu
+10.1109/TVCG.2020.3030342,furui cheng,huamin qu
+10.1109/TVCG.2019.2934810,zhutian chen,huamin qu
+10.1109/TVCG.2019.2934660,xuanwu yue,huamin qu
+10.1109/TVCG.2019.2934275,dong sun 0001,huamin qu
+10.1109/TVCG.2019.2934332,zhutian chen,huamin qu
+10.1109/TVCG.2019.2934656,haipeng zeng,huamin qu
+10.1109/TVCG.2019.2934798,yong wang 0021,huamin qu
+10.1109/TVCG.2019.2934613,ke xu,huamin qu
+10.1109/TVCG.2018.2865232,qianwen wang,huamin qu
+10.1109/VAST.2017.8585721,yao ming,huamin qu
+10.1109/TVCG.2017.2744738,xun zhao,huamin qu
+10.1109/TVCG.2017.2744159,qiaomu shen,huamin qu
+10.1109/TVCG.2017.2744080,siwei fu,huamin qu
+10.1109/VAST.2016.7883517,yuanzhe chen,huamin qu
+10.1109/TVCG.2016.2599378,po-ming law,huamin qu
+10.1109/TVCG.2016.2598444,siwei fu,huamin qu
+10.1109/VAST.2015.7347633,quan li,huamin qu
+10.1109/TVCG.2015.2468151,yanhong wu,huamin qu
+10.1109/TVCG.2015.2467691,yong wang 0021,huamin qu
+10.1109/TVCG.2014.2346912,conglei shi,huamin qu
+10.1109/TVCG.2014.2346893,wei zeng 0004,huamin qu
+10.1109/TVCG.2013.221,panpan xu,huamin qu
+10.1109/TVCG.2012.291,nan cao,huamin qu
+10.1109/TVCG.2012.253,conglei shi,huamin qu
+10.1109/TVCG.2011.188,nan cao,huamin qu
+10.1109/TVCG.2010.183,yingcai wu,huamin qu
+10.1109/TVCG.2010.154,nan cao,huamin qu
+10.1109/TVCG.2009.179,xiaoru yuan,huamin qu
+10.1109/TVCG.2009.172,ming-yuen chan,huamin qu
+10.1109/TVCG.2018.2864852,saeed boorboor,arie e. kaufman
+10.1109/VAST.2016.7883508,ji hwan park,arie e. kaufman
+10.1109/TVCG.2016.2598791,saad nadeem,arie e. kaufman
+10.1109/TVCG.2015.2467954,charilaos papadopoulos,arie e. kaufman
+10.1109/TVCG.2015.2467413,joseph marino,arie e. kaufman
+10.1109/TVCG.2013.139,krishna chaitanya gurijala,arie e. kaufman
+10.1109/TVCG.2013.127,charilaos papadopoulos,arie e. kaufman
+10.1109/TVCG.2012.210,krishna chaitanya gurijala,arie e. kaufman
+10.1109/TVCG.2010.200,wei zeng 0002,arie e. kaufman
+10.1109/VAST.2006.261439,susan brennan,arie e. kaufman
+10.1109/TVCG.2006.153,haitao zhang,arie e. kaufman
+10.1109/TVCG.2006.112,wei hong 0006,arie e. kaufman
+10.1109/VISUAL.2005.1532824,jianning wang,arie e. kaufman
+10.1109/VISUAL.2005.1532818,lujin wang,arie e. kaufman
+10.1109/VISUAL.2004.63,sarang lakare,arie e. kaufman
+10.1109/VISUAL.2004.27,nan zhang 0011,arie e. kaufman
+10.1109/VISUAL.2003.1250388,wei li 0004,arie e. kaufman
+10.1109/VISUAL.2003.1250359,hui xie 0001,arie e. kaufman
+10.1109/VISUAL.2002.1183779,xiaoming wei,arie e. kaufman
+10.1109/VISUAL.2002.1183775,ming wan,arie e. kaufman
+10.1109/VISUAL.2001.964517,ming wan,arie e. kaufman
+10.1109/VISUAL.2000.885702,huamin qu,arie e. kaufman
+10.1109/VISUAL.2000.885674,sarang lakare,arie e. kaufman
+10.1109/VISUAL.1999.809900,baoquan chen,arie e. kaufman
+10.1109/VISUAL.1999.809887,kevin kreeger,arie e. kaufman
+10.1109/VISUAL.1999.809872,baoquan chen,arie e. kaufman
+10.1109/VISUAL.1998.745310,lichan hong,arie e. kaufman
+10.1109/VISUAL.1997.663900,tzi-cker chiueh,arie e. kaufman
+10.1109/VISUAL.1997.663869,yong zhou 0001,arie e. kaufman
+10.1109/VISUAL.1997.663851,taosong he,arie e. kaufman
+10.1109/VISUAL.1996.567603,taosong he,arie e. kaufman
+10.1109/VISUAL.1995.480818,lichan hong,arie e. kaufman
+10.1109/VISUAL.1995.480813,cláudio t. silva,arie e. kaufman
+10.1109/VISUAL.1995.480796,xiaoyang mao,arie e. kaufman
+10.1109/VISUAL.1994.346333,taosong he,arie e. kaufman
+10.1109/VISUAL.1994.346319,cláudio t. silva,arie e. kaufman
+10.1109/VISUAL.1993.398862,taosong he,arie e. kaufman
+10.1109/VISUAL.1993.398854,sidney w. wang,arie e. kaufman
+10.1109/VISUAL.1992.235231,ricardo s. avila,arie e. kaufman
+10.1109/TVCG.2020.3030427,yalong yang 0001,hanspeter pfister
+10.1109/TVCG.2020.3028948,fritz lekschas,hanspeter pfister
+10.1109/TVCG.2019.2934555,fritz lekschas,hanspeter pfister
+10.1109/TVCG.2019.2934300,michael behrisch 0001,hanspeter pfister
+10.1109/TVCG.2019.2934547,robert krüger,hanspeter pfister
+10.1109/TVCG.2018.2865152,ronell sicat,hanspeter pfister
+10.1109/TVCG.2018.2865138,daniel haehn,hanspeter pfister
+10.1109/TVCG.2017.2745978,fritz lekschas,hanspeter pfister
+10.1109/TVCG.2017.2745941,benjamin bach,hanspeter pfister
+10.1109/TVCG.2017.2744238,markus hadwiger,hanspeter pfister
+10.1109/TVCG.2017.2744118,nam wook kim,hanspeter pfister
+10.1109/TVCG.2016.2598620,nam wook kim,hanspeter pfister
+10.1109/TVCG.2016.2598587,kasper dinkla,hanspeter pfister
+10.1109/TVCG.2016.2598518,michail schwab,hanspeter pfister
+10.1109/TVCG.2015.2467759,hendrik strobelt,hanspeter pfister
+10.1109/TVCG.2014.2346371,daniel haehn,hanspeter pfister
+10.1109/TVCG.2014.2346248,alexander lex,hanspeter pfister
+10.1109/TVCG.2013.234,michelle borkin,hanspeter pfister
+10.1109/TVCG.2013.155,michelle borkin,hanspeter pfister
+10.1109/TVCG.2013.154,alexander lex,hanspeter pfister
+10.1109/TVCG.2012.240,markus hadwiger,hanspeter pfister
+10.1109/TVCG.2011.192,michelle borkin,hanspeter pfister
+10.1109/TVCG.2010.168,won-ki jeong,hanspeter pfister
+10.1109/TVCG.2010.137,miriah d. meyer,hanspeter pfister
+10.1109/TVCG.2009.167,miriah d. meyer,hanspeter pfister
+10.1109/TVCG.2008.186,christian ledergerber,hanspeter pfister
+10.1109/TVCG.2008.154,miriah d. meyer,hanspeter pfister
+10.1109/VISUAL.2005.1532827,jose de corral,hanspeter pfister
+10.1109/VISUAL.2004.38,wei chen 0001,hanspeter pfister
+10.1109/VISUAL.1996.568113,taosong he,hanspeter pfister
+10.1109/TVCG.2020.3030420,johannes knittel,thomas ertl
+10.1109/VAST.2016.7883507,florian heimerl,thomas ertl
+10.1109/TVCG.2016.2599042,steffen frey,thomas ertl
+10.1109/TVCG.2016.2598824,michael krone,thomas ertl
+10.1109/TVCG.2015.2467871,tanja blascheck,thomas ertl
+10.1109/TVCG.2015.2467621,florian heimerl,thomas ertl
+10.1109/TVCG.2014.2346677,steffen koch,thomas ertl
+10.1109/TVCG.2014.2346442,gustavo mello machado,thomas ertl
+10.1109/TVCG.2014.2346319,steffen frey,thomas ertl
+10.1109/TVCG.2013.186,harald bosch,thomas ertl
+10.1109/VAST.2012.6400557,junghoon chae,thomas ertl
+10.1109/TVCG.2012.284,steffen frey,thomas ertl
+10.1109/TVCG.2012.282,sebastian grottel,thomas ertl
+10.1109/TVCG.2012.277,florian heimerl,thomas ertl
+10.1109/VAST.2009.5333564,steffen koch,thomas ertl
+10.1109/TVCG.2009.157,michael krone,thomas ertl
+10.1109/TVCG.2007.70614,sebastian grottel,thomas ertl
+10.1109/VISUAL.2005.1532852,daniel weiskopf,thomas ertl
+10.1109/VISUAL.2005.1532830,simon stegmaier,thomas ertl
+10.1109/VISUAL.2005.1532799,thomas klein,thomas ertl
+10.1109/VISUAL.2004.58,dirc rose,thomas ertl
+10.1109/VISUAL.2004.3,simon stegmaier,thomas ertl
+10.1109/VISUAL.2003.1250404,matthias hopf,thomas ertl
+10.1109/VISUAL.2003.1250390,manfred weiler,thomas ertl
+10.1109/VISUAL.2003.1250361,daniel weiskopf,thomas ertl
+10.1109/VISUAL.2002.1183829,simon stegmaier,thomas ertl
+10.1109/VISUAL.2002.1183762,daniel weiskopf,thomas ertl
+10.1109/VISUAL.2001.964514,martin kraus,thomas ertl
+10.1109/VISUAL.2001.964512,manfred weiler,thomas ertl
+10.1109/VISUAL.2000.885688,rüdiger westermann,thomas ertl
+10.1109/VISUAL.2000.885683,stefan röttger,thomas ertl
+10.1109/VISUAL.1999.809934,matthias hopf,thomas ertl
+10.1109/VISUAL.1999.809918,martin schulz 0005,thomas ertl
+10.1109/VISUAL.1999.809892,christof rezk-salama,thomas ertl
+10.1109/VISUAL.1999.809878,klaus engel,thomas ertl
+10.1109/VISUAL.1998.745321,christoph lürig,thomas ertl
+10.1109/VISUAL.1997.663907,roberto grosso,thomas ertl
+10.1109/VISUAL.1997.663853,rüdiger westermann,thomas ertl
+10.1109/TVCG.2020.3030441,harish doraiswamy,cláudio t. silva
+10.1109/TVCG.2020.3030361,jorge henrique piazentin ono,cláudio t. silva
+10.1109/TVCG.2020.3030333,jonathas costa,cláudio t. silva
+10.1109/TVCG.2019.2934280,gromit yeuk-yin chan,cláudio t. silva
+10.1109/TVCG.2019.2934668,bowen yu 0004,cláudio t. silva
+10.1109/TVCG.2017.2743980,alexander bock,cláudio t. silva
+10.1109/TVCG.2016.2598585,fabio miranda 0001,cláudio t. silva
+10.1109/TVCG.2016.2598497,bowen yu 0004,cláudio t. silva
+10.1109/VAST.2015.7347636,nivan ferreira,cláudio t. silva
+10.1109/SciVis.2015.7429486,jorge poco,cláudio t. silva
+10.1109/VAST.2014.7042478,carlos a. dietrich,cláudio t. silva
+10.1109/TVCG.2014.2346755,jorge poco,cláudio t. silva
+10.1109/TVCG.2014.2346753,bowen yu 0004,cláudio t. silva
+10.1109/TVCG.2014.2346449,harish doraiswamy,cláudio t. silva
+10.1109/TVCG.2013.226,nivan ferreira,cláudio t. silva
+10.1109/TVCG.2011.176,nivan ferreira,cláudio t. silva
+10.1109/TVCG.2010.185,claurissa tuttle,cláudio t. silva
+10.1109/TVCG.2010.170,joel daniels ii,cláudio t. silva
+10.1109/TVCG.2009.195,emanuele santos,cláudio t. silva
+10.1109/TVCG.2009.194,tiago etiene,cláudio t. silva
+10.1109/TVCG.2008.174,david koop,cláudio t. silva
+10.1109/TVCG.2008.160,carlos scheidegger,cláudio t. silva
+10.1109/TVCG.2008.122,carlos a. dietrich,cláudio t. silva
+10.1109/TVCG.2007.70584,carlos scheidegger,cláudio t. silva
+10.1109/TVCG.2006.171,steven p. callahan,cláudio t. silva
+10.1109/TVCG.2006.149,john m. schreiner,cláudio t. silva
+10.1109/VISUAL.2005.1532796,steven p. callahan,cláudio t. silva
+10.1109/VISUAL.2001.964534,jihad el-sana,cláudio t. silva
+10.1109/VISUAL.2001.964502,peter lindstrom,cláudio t. silva
+10.1109/VISUAL.2001.964489,marc alexa,cláudio t. silva
+10.1109/VISUAL.1999.809875,james t. klosowski,cláudio t. silva
+10.1109/VISUAL.1999.809870,andré guéziec,cláudio t. silva
+10.1109/VISUAL.1997.663895,yi-jen chiang,cláudio t. silva
+10.1109/TVCG.2020.3030386,philipp meschenmoser,daniel a. keim
+10.1109/VAST.2018.8802486,michael blumenschein,daniel a. keim
+10.1109/TVCG.2018.2865049,juri buchmüller,daniel a. keim
+10.1109/TVCG.2017.2745181,manuel stein,daniel a. keim
+10.1109/TVCG.2017.2744805,dominik sacha,daniel a. keim
+10.1109/TVCG.2016.2598495,dominik sacha,daniel a. keim
+10.1109/TVCG.2015.2467591,dominik sacha,daniel a. keim
+10.1109/TVCG.2015.2467553,dominik jäckle,daniel a. keim
+10.1109/TVCG.2014.2346481,dominik sacha,daniel a. keim
+10.1109/VAST.2012.6400554,leishi zhang,daniel a. keim
+10.1109/VAST.2012.6400488,andrada tatu,daniel a. keim
+10.1109/TVCG.2011.179,milos krstajic,daniel a. keim
+10.1109/VAST.2010.5652530,hartmut ziegler,daniel a. keim
+10.1109/VAST.2010.5652926,daniela oelke,daniel a. keim
+10.1109/VAST.2009.5332628,andrada tatu,daniel a. keim
+10.1109/TVCG.2009.182,peter bak,daniel a. keim
+10.1109/VAST.2006.261423,jörn schneidewind,daniel a. keim
+10.1109/VISUAL.1999.809930,eleftherios koutsofios,daniel a. keim
+10.1109/INFVIS.1998.729559,mihael ankerst,daniel a. keim
+10.1109/TVCG.2020.3030473,liang zhou 0001,daniel weiskopf
+10.1109/TVCG.2019.2934669,haris mumtaz,daniel weiskopf
+10.1109/TVCG.2018.2865266,yunhai wang,daniel weiskopf
+10.1109/TVCG.2017.2744018,nils rodrigues,daniel weiskopf
+10.1109/VAST.2016.7883520,tanja blascheck,daniel weiskopf
+10.1109/TVCG.2016.2598919,christoph schulz,daniel weiskopf
+10.1109/TVCG.2016.2598898,rudolf netzel,daniel weiskopf
+10.1109/TVCG.2016.2598695,kuno kurzhals,daniel weiskopf
+10.1109/TVCG.2015.2468091,kuno kurzhals,daniel weiskopf
+10.1109/TVCG.2015.2467757,fabian beck 0001,daniel weiskopf
+10.1109/TVCG.2014.2346420,rudolf netzel,daniel weiskopf
+10.1109/TVCG.2014.2346333,marco ament,daniel weiskopf
+10.1109/TVCG.2013.129,marco ament,daniel weiskopf
+10.1109/TVCG.2013.232,corinna vehlow,daniel weiskopf
+10.1109/TVCG.2013.194,kuno kurzhals,daniel weiskopf
+10.1109/TVCG.2012.276,gennady l. andrienko,daniel weiskopf
+10.1109/TVCG.2012.222,markus höferlin,daniel weiskopf
+10.1109/TVCG.2011.226,michael burch,daniel weiskopf
+10.1109/TVCG.2011.203,marcel hlawatsch,daniel weiskopf
+10.1109/TVCG.2011.193,michael burch,daniel weiskopf
+10.1109/TVCG.2010.196,thomas müller 0005,daniel weiskopf
+10.1109/TVCG.2009.131,julian heinrich,daniel weiskopf
+10.1109/TVCG.2008.119,sven bachthaler,daniel weiskopf
+10.1109/VISUAL.2005.1532853,ralf p. botchen,daniel weiskopf
+10.1109/TVCG.2020.3030470,ingo wald,valerio pascucci
+10.1109/TVCG.2020.3030363,torin mcdonald,valerio pascucci
+10.1109/TVCG.2020.3030381,duong hoang,valerio pascucci
+10.1109/TVCG.2019.2934257,pavol klacansky,valerio pascucci
+10.1109/TVCG.2019.2934620,steve petruzza,valerio pascucci
+10.1109/TVCG.2018.2864853,duong hoang,valerio pascucci
+10.1109/TVCG.2018.2864848,attila gyulassy,valerio pascucci
+10.1109/TVCG.2017.2745141,shusen liu,valerio pascucci
+10.1109/TVCG.2017.2744079,william usher,valerio pascucci
+10.1109/TVCG.2016.2599040,kui wu 0003,valerio pascucci
+10.1109/TVCG.2015.2467432,attila gyulassy,valerio pascucci
+10.1109/TVCG.2014.2346434,attila gyulassy,valerio pascucci
+10.1109/TVCG.2013.174,atul rungta,valerio pascucci
+10.1109/TVCG.2012.286,aaditya g. landge,valerio pascucci
+10.1109/TVCG.2012.228,julien tierny,valerio pascucci
+10.1109/TVCG.2012.209,attila gyulassy,valerio pascucci
+10.1109/TVCG.2009.163,julien tierny,valerio pascucci
+10.1109/TVCG.2008.110,attila gyulassy,valerio pascucci
+10.1109/TVCG.2007.70601,gunther h. weber,valerio pascucci
+10.1109/TVCG.2006.186,david e. laney,valerio pascucci
+10.1109/VISUAL.2004.68,herbert edelsbrunner,valerio pascucci
+10.1109/VISUAL.2003.1250365,peer-timo bremer,valerio pascucci
+10.1109/VISUAL.2001.964533,peter lindstrom,valerio pascucci
+10.1109/VISUAL.2000.885724,ariel shamir,valerio pascucci
+10.1109/TVCG.2020.3030383,jan zahálka,jarke j. van wijk
+10.1109/TVCG.2018.2865043,dennis dingen,jarke j. van wijk
+10.1109/TVCG.2017.2745278,bram c. m. cappers,jarke j. van wijk
+10.1109/TVCG.2015.2468078,stef van den elzen,jarke j. van wijk
+10.1109/TVCG.2015.2467112,roeland scheepens,jarke j. van wijk
+10.1109/TVCG.2014.2346441,stef van den elzen,jarke j. van wijk
+10.1109/TVCG.2014.2346437,paul van der corput,jarke j. van wijk
+10.1109/TVCG.2012.208,kasper dinkla,jarke j. van wijk
+10.1109/VAST.2011.6102453,stef van den elzen,jarke j. van wijk
+10.1109/TVCG.2011.201,jarry h. t. claessen,jarke j. van wijk
+10.1109/TVCG.2011.181,roeland scheepens,jarke j. van wijk
+10.1109/TVCG.2006.192,a. johannes pretorius,jarke j. van wijk
+10.1109/VISUAL.2005.1532779,bart moberts,jarke j. van wijk
+10.1109/INFVIS.2004.43,frank van ham,jarke j. van wijk
+10.1109/INFVIS.2004.25,lucian voinea,jarke j. van wijk
+10.1109/VISUAL.2003.1250377,alexandru telea,jarke j. van wijk
+10.1109/INFVIS.2002.1173153,frank van ham,jarke j. van wijk
+10.1109/INFVIS.2001.963285,ernst kleiberg,jarke j. van wijk
+10.1109/INFVIS.2001.963281,frank van ham,jarke j. van wijk
+10.1109/VISUAL.2000.885715,harald garcke,jarke j. van wijk
+10.1109/VISUAL.1999.809865,alexandru telea,jarke j. van wijk
+10.1109/VISUAL.1998.745323,jurriaan d. mulder,jarke j. van wijk
+10.1109/VISUAL.1995.485143,jurriaan d. mulder,jarke j. van wijk
+10.1109/VISUAL.1995.480817,wim c. de leeuw,jarke j. van wijk
+10.1109/VISUAL.1993.398849,wim c. de leeuw,jarke j. van wijk
+10.1109/TVCG.2017.2744099,subhashis hazarika,han-wei shen
+10.1109/VAST.2016.7883513,xiaotong liu,han-wei shen
+10.1109/TVCG.2016.2599049,xin tong,han-wei shen
+10.1109/TVCG.2016.2598869,ayan biswas,han-wei shen
+10.1109/TVCG.2015.2467436,soumya dutta,han-wei shen
+10.1109/TVCG.2015.2467431,xiaotong liu,han-wei shen
+10.1109/TVCG.2013.152,teng-yok lee,han-wei shen
+10.1109/TVCG.2011.219,boonthanome nouanesengsy,han-wei shen
+10.1109/TVCG.2010.131,lijie xu,han-wei shen
+10.1109/TVCG.2009.200,teng-yok lee,han-wei shen
+10.1109/TVCG.2008.114,ying tu,han-wei shen
+10.1109/TVCG.2007.70529,ying tu,han-wei shen
+10.1109/TVCG.2006.164,jonathan woodring,han-wei shen
+10.1109/TVCG.2006.159,chaoli wang 0001,han-wei shen
+10.1109/TVCG.2006.137,guangfeng ji,han-wei shen
+10.1109/VISUAL.2005.1532833,udeepta bordoloi,han-wei shen
+10.1109/VISUAL.2003.1250402,jonathan woodring,han-wei shen
+10.1109/VISUAL.2003.1250378,guo-shi li,han-wei shen
+10.1109/VISUAL.2003.1250373,udeepta bordoloi,han-wei shen
+10.1109/VAST50239.2020.00012,guizhen wang,david s. ebert
+10.1109/TVCG.2019.2934266,mosab khayat,david s. ebert
+10.1109/TVCG.2019.2934603,jieqiong zhao,david s. ebert
+10.1109/TVCG.2019.2934614,luke s. snyder,david s. ebert
+10.1109/TVCG.2018.2864499,jiawei zhang 0003,david s. ebert
+10.1109/VAST.2016.7883514,jing xia,david s. ebert
+10.1109/VAST.2014.7042484,sungahn ko,david s. ebert
+10.1109/TVCG.2014.2346926,abish malik,david s. ebert
+10.1109/TVCG.2014.2346911,sungahn ko,david s. ebert
+10.1109/TVCG.2012.264,shehzad afzal,david s. ebert
+10.1109/VAST.2011.6102460,abish malik,david s. ebert
+10.1109/VAST.2011.6102457,shehzad afzal,david s. ebert
+10.1109/VAST.2009.5333920,stephen rudolph,david s. ebert
+10.1109/TVCG.2009.185,ross maciejewski,david s. ebert
+10.1109/VAST.2008.4677363,anya samak,david s. ebert
+10.1109/VAST.2008.4677354,ross maciejewski,david s. ebert
+10.1109/TVCG.2006.117,yuyan song,david s. ebert
+10.1109/VISUAL.2005.1532854,aidong lu,david s. ebert
+10.1109/VISUAL.2004.85,martin kraus,david s. ebert
+10.1109/VISUAL.2002.1183764,joe michael kniss,david s. ebert
+10.1109/INFVIS.1998.729568,randall m. rohrer,david s. ebert
+10.1109/VAST50239.2020.00011,zhiguang zhou,wei chen 0001
+10.1109/TVCG.2020.3030410,wei zeng 0002,wei chen 0001
+10.1109/TVCG.2020.3030440,zhiguang zhou,wei chen 0001
+10.1109/TVCG.2019.2934655,ying zhao 0001,wei chen 0001
+10.1109/TVCG.2019.2934208,yating wei,wei chen 0001
+10.1109/TVCG.2018.2865041,yingcai wu,wei chen 0001
+10.1109/TVCG.2018.2865020,ying zhao 0001,wei chen 0001
+10.1109/TVCG.2018.2864503,zhiguang zhou,wei chen 0001
+10.1109/TVCG.2016.2598664,panpan xu,wei chen 0001
+10.1109/SciVis.2015.7429488,hongsen liao,wei chen 0001
+10.1109/TVCG.2020.3030389,juraj pálenik,helwig hauser
+10.1109/TVCG.2019.2934258,juraj pálenik,helwig hauser
+10.1109/TVCG.2016.2598870,ivan kolesár,helwig hauser
+10.1109/TVCG.2016.2598470,cagatay turkay,helwig hauser
+10.1109/VAST.2015.7347635,rainer splechtna,helwig hauser
+10.1109/TVCG.2013.184,bilal alsallakh,helwig hauser
+10.1109/TVCG.2012.256,cagatay turkay,helwig hauser
+10.1109/TVCG.2011.235,paolo angelelli,helwig hauser
+10.1109/TVCG.2011.178,cagatay turkay,helwig hauser
+10.1109/TVCG.2010.171,kresimir matkovic,helwig hauser
+10.1109/TVCG.2009.155,kresimir matkovic,helwig hauser
+10.1109/TVCG.2009.136,ove daae lampe,helwig hauser
+10.1109/TVCG.2008.145,kresimir matkovic,helwig hauser
+10.1109/TVCG.2008.144,wolfgang freiler,helwig hauser
+10.1109/TVCG.2008.139,johannes kehrer,helwig hauser
+10.1109/TVCG.2007.70588,philipp muigg,helwig hauser
+10.1109/TVCG.2007.70517,ove daae lampe,helwig hauser
+10.1109/TVCG.2006.170,matej novotny,helwig hauser
+10.1109/INFVIS.2005.1532139,fabian bendix,helwig hauser
+10.1109/VISUAL.2004.59,robert s. laramee,helwig hauser
+10.1109/VISUAL.2003.1250417,zoltan konyha,helwig hauser
+10.1109/VISUAL.2003.1250386,markus hadwiger,helwig hauser
+10.1109/VISUAL.2003.1250364,robert s. laramee,helwig hauser
+10.1109/VISUAL.2001.964522,lukas mroz,helwig hauser
+10.1109/INFVIS.2001.963286,robert kosara,helwig hauser
+10.1109/VAST47406.2019.8986923,anjul tyagi,klaus mueller
+10.1109/TVCG.2018.2865026,cong xie,klaus mueller
+10.1109/VAST.2017.8585647,jun wang,klaus mueller
+10.1109/TVCG.2016.2598479,cong xie,klaus mueller
+10.1109/TVCG.2015.2467931,jun wang,klaus mueller
+10.1109/TVCG.2015.2467552,shenghui cheng,klaus mueller
+10.1109/TVCG.2013.190,bing wang 0007,klaus mueller
+10.1109/TVCG.2012.234,nafees ahmed,klaus mueller
+10.1109/TVCG.2012.186,lars kuehne,klaus mueller
+10.1109/TVCG.2011.218,ziyi zheng,klaus mueller
+10.1109/VAST.2010.5652484,supriya garg,klaus mueller
+10.1109/TVCG.2010.211,ziyi zheng,klaus mueller
+10.1109/VAST.2008.4677352,supriya garg,klaus mueller
+10.1109/TVCG.2008.118,lujin wang,klaus mueller
+10.1109/TVCG.2007.70573,feng qiu,klaus mueller
+10.1109/VISUAL.2004.35,lujin wang,klaus mueller
+10.1109/VISUAL.2004.24,feng qiu,klaus mueller
+10.1109/VISUAL.2003.1250403,tomihisa welsh,klaus mueller
+10.1109/VISUAL.2000.885698,jian huang,klaus mueller
+10.1109/TVCG.2020.3030378,arpit narechania,john t. stasko
+10.1109/TVCG.2018.2865146,emily wall,john t. stasko
+10.1109/TVCG.2018.2865145,arjun srinivasan,john t. stasko
+10.1109/TVCG.2017.2745219,arjun srinivasan,john t. stasko
+10.1109/TVCG.2016.2598590,mengdie hu,john t. stasko
+10.1109/TVCG.2014.2346249,ramik sadana,john t. stasko
+10.1109/TVCG.2013.209,rahul c. basole,john t. stasko
+10.1109/TVCG.2012.263,hannah pileggi,john t. stasko
+10.1109/TVCG.2012.224,youn ah kang,john t. stasko
+10.1109/VAST.2011.6102440,zhicheng liu,john t. stasko
+10.1109/VAST.2011.6102438,youn ah kang,john t. stasko
+10.1109/TVCG.2010.177,zhicheng liu,john t. stasko
+10.1109/VAST.2009.5333878,youn ah kang,john t. stasko
+10.1109/TVCG.2008.121,zhicheng liu,john t. stasko
+10.1109/TVCG.2008.125,george g. robertson,john t. stasko
+10.1109/INFVIS.2005.1532136,robert a. amar,john t. stasko
+10.1109/INFVIS.2004.10,robert a. amar,john t. stasko
+10.1109/INFVIS.2003.1249027,christoph csallner,john t. stasko
+10.1109/INFVIS.2001.963277,james r. eagan,john t. stasko
+10.1109/INFVIS.1995.528685,dean f. jerding,john t. stasko
+10.1109/TVCG.2014.2346456,katherine e. isaacs,bernd hamann
+10.1109/TVCG.2011.162,sean williams,bernd hamann
+10.1109/TVCG.2007.70603,attila gyulassy,bernd hamann
+10.1109/TVCG.2007.70590,alfred r. fuller,bernd hamann
+10.1109/TVCG.2007.70552,attila gyulassy,bernd hamann
+10.1109/TVCG.2007.70543,scott e. dillard,bernd hamann
+10.1109/VISUAL.2005.1532839,attila gyulassy,bernd hamann
+10.1109/VISUAL.2005.1532826,david f. wiley,bernd hamann
+10.1109/VISUAL.2002.1183772,gunther h. weber,bernd hamann
+10.1109/VISUAL.1991.175782,gregory m. nielson,bernd hamann
+10.1109/VISUAL.1990.146363,gregory m. nielson,bernd hamann
+10.1109/TVCG.2020.3028955,pascal nardini,gerik scheuermann
+10.1109/TVCG.2018.2864846,felix raith,gerik scheuermann
+10.1109/TVCG.2015.2467620,stefan jänicke,gerik scheuermann
+10.1109/SciVis.2015.7429491,valentin zobel,gerik scheuermann
+10.1109/TVCG.2012.249,steven schlegel,gerik scheuermann
+10.1109/TVCG.2012.198,wieland reich,gerik scheuermann
+10.1109/TVCG.2010.217,stefan jänicke,gerik scheuermann
+10.1109/TVCG.2009.197,heike leitte,gerik scheuermann
+10.1109/TVCG.2008.143,dominic schneider,gerik scheuermann
+10.1109/TVCG.2008.116,heike leitte,gerik scheuermann
+10.1109/TVCG.2007.70557,alexander wiebel,gerik scheuermann
+10.1109/VISUAL.2005.1532848,alexander wiebel,gerik scheuermann
+10.1109/VISUAL.2005.1532773,mario hlawitschka,gerik scheuermann
+10.1109/VISUAL.2004.107,christoph garth,gerik scheuermann
+10.1109/VISUAL.2003.1250372,julia ebling,gerik scheuermann
+10.1109/VAST50239.2020.00009,jiang wu,yingcai wu
+10.1109/TVCG.2020.3030458,di weng,yingcai wu
+10.1109/TVCG.2020.3030392,shuainan ye,yingcai wu
+10.1109/TVCG.2020.3030467,tan tang,yingcai wu
+10.1109/TVCG.2020.3030359,xiao xie,yingcai wu
+10.1109/TVCG.2020.3030393,jiacheng pan,yingcai wu
+10.1109/TVCG.2020.3028957,xiao xie,yingcai wu
+10.1109/TVCG.2019.2934630,jiachen wang,yingcai wu
+10.1109/TVCG.2019.2934670,zikun deng,yingcai wu
+10.1109/TVCG.2018.2865126,di weng,yingcai wu
+10.1109/TVCG.2018.2864899,tan tang,yingcai wu
+10.1109/TVCG.2016.2598432,dongyu liu,yingcai wu
+10.1109/TVCG.2008.159,ming-yuen chan,yingcai wu
